@@ -1,8 +1,24 @@
 ﻿ID, Artist, Song 
-1,,
+1,Bruce Springsteen,Born to run
 2,,
 3,Vassendgutane,Hei Reidar
-4,,
+4, No4, Jeg har ikke sett elg
+5,,
+6,,
+7,,
+8,,
+9,,
+10,,
+11,,
+12,,
+13,Karpe_Diem,PÃ¥fugl
+14,,
+15,,
+16,,
+17,,
+18,,
+19,,
+20,,
 5,,
 6,AAA,BBB
 7,,
